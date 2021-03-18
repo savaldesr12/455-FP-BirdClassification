@@ -1,5 +1,7 @@
+
 # A Weakly-Supervised Approach to Bird Watching
 
+[Video](https://youtu.be/SbzyTZ4xMA4)
 ### Weakly-Supervised Data Augmentation Network applied to the birds classification challenge.
 
 ## Problem Description:
